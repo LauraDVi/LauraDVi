@@ -1,17 +1,15 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9315F7&center=true&vCenter=true&repeat=false&width=435&lines=Laura+Vieira)](https://git.io/typing-svg)
+# ✨ Laura Vieira
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9315F7&width=435&lines=Desenvolvedora+FullStack)](https://git.io/typing-svg)
+
 Olá! Me chamo Laura Dantas Vieira, tenho 18 anos e sou natural de São Paulo. Concluí meu ensino médio no Colégio Salgueiro em 2024. 
 Hoje, curso engenharia de software na FIAP e estou trabalhando na minha carreira para me consolidar como desenvolvedora FullStack. 
 Ao término da minha graduação, pretendo cursar também CyberSecurity, pois, além de ser apaixonada pelo meu atual curso, tenho grande interesse em CiberSegurança.
 
 <p align="center">
-  <a href="https://www.instagram.com/l4ura.dv/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-purple
-  "/></a>
-  <a href="https://www.linkedin.com/in/laura-dantas-vieira-a341ba391/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-purple
-  "/></a>
-  <a href="https://x.com/lahDVi"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-purple
-  "/></a>
+  <a href="https://www.instagram.com/l4ura.dv/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-purple"/></a>
+  <a href="https://www.linkedin.com/in/laura-dantas-vieira-a341ba391/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-purple"/></a>
+  <a href="https://x.com/lahDVi"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-purple"/></a>
 </p>
 
 ---

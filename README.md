@@ -1,10 +1,6 @@
-# ✨ Laura Vieira
+# Bem-vindo(a) ao meu perfil!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9315F7&width=435&lines=Desenvolvedora+FullStack)](https://git.io/typing-svg)
-
-Olá! Me chamo Laura Dantas Vieira, tenho 18 anos e sou natural de São Paulo. Concluí meu ensino médio no Colégio Salgueiro em 2024. 
-Hoje, curso engenharia de software na FIAP e estou trabalhando na minha carreira para me consolidar como desenvolvedora FullStack. 
-Ao término da minha graduação, pretendo cursar também CyberSecurity, pois, além de ser apaixonada pelo meu atual curso, tenho grande interesse em CiberSegurança.
 
 <p align="center">
   <a href="https://www.instagram.com/l4ura.dv/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-purple"/></a>
@@ -75,23 +71,3 @@ Ao término da minha graduação, pretendo cursar também CyberSecurity, pois, a
 
 <br/>
 <br/>
-
----
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10 px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LauraDVi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraDVi&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

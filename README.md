@@ -8,4 +8,3 @@
 - TOTVS project;
 - Personal weather project.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)

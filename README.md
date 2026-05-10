@@ -8,4 +8,4 @@
 - TOTVS project;
 - Personal weather project.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura&theme=dracula&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
